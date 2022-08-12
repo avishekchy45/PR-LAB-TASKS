@@ -1,16 +1,17 @@
-# -LAB-TASKS
+# PR-LAB-TASKS
 
-##### This repository is for "" lab tasks and assignments
+##### This repository is for "Pattern Recognition" lab tasks and assignments
 ---
 
-**Course Code** : (V3)
+**Course Code** : CSE 460(V3)
 
-**Course Title** :  Laboratory
+**Course Title** :  Pattern Recognition Laboratory
 
-**Course Teacher** : 
+**Course Teachers** : Dr. Kaushik Deb, Syed Md. Minhaz Hossain
 
-**Session** : 
 
-**Course Description** : 
+**Session** : Spring 2022
+
+**Course Description** : This course emphasizes a dynamical systems approach to neural networks. Simple tools for neural etwork analysis - Liapunov stability, gradient descent minimization techniques, simulated annealing. The perception, learning in feedforward and recurrent networks - backpropagation, Boltzmann machines, recurrent backpropagation, adaptive resonance theory, self-organizing feature maps, associative memory, neural networks for optimization, implementation issues.
 
 ---
